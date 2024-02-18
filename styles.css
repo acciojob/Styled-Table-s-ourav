@@ -1,1 +1,16 @@
 /* your code */
+table{
+	width:100%
+	
+}
+th{
+	background-color:aquamarine;
+	border-collapse:collapse;
+}
+tr{
+	
+}
+td{
+	background-color:grey;
+	padding:10px;
+}
